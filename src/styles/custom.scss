@@ -1,0 +1,18 @@
+@import "./variable";
+
+.c-pointer {
+  cursor: pointer;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+
+  .btn {
+    color: inherit;
+  }
+}

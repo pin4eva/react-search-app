@@ -1,0 +1,10 @@
+@import "./variable";
+@import "bootstrap/scss/bootstrap.scss";
+
+html {
+  font-size: 16px;
+
+  // @media screen and (min-width:768px) {
+  //   font-size: 16px;
+  // }
+}
