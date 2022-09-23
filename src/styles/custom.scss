@@ -8,11 +8,10 @@
   min-height: 100vh;
 }
 
-.dark {
-  background-color: black;
-  color: white;
+.btn {
+  border-radius: 0 !important;
+}
 
-  .btn {
-    color: inherit;
-  }
+.form-group {
+  margin-bottom: 1rem;
 }
